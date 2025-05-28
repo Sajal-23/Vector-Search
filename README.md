@@ -1,2 +1,2 @@
 # Vector-Search
-Vector search with text embedding and Vertex AI
+POCs related to Vector search sentence-transformers text embeddings
